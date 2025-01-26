@@ -3404,7 +3404,6 @@ stil
 sting
 stip
 stipped
-stirng
 stoped
 storag
 stoream
@@ -3455,11 +3454,9 @@ succesfull
 succesfully
 successfule
 successfull
-successfuly
 successs
 succseeded
 suficcient
-suiteable
 sumed-up
 supercede
 supercedes
